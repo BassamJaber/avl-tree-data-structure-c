@@ -1,0 +1,39 @@
+# Al-Quds Bank (QUDS) ,Ramallah , 1
+46,Customer1 , 273
+58,Customer2  , 1211
+75,Customer3  , 1722
+34,Customer4  ,12121
+64,Customer5  ,12121
+1, Customer6  ,2121
+85,Customer7 ,121
+38, Customer8 ,2121
+101,Customer9 ,2121
+63,Customer10 ,1212
+10,Customer11 ,12123
+56,Customer12 ,5353
+59,Customer13 ,18263
+# Arab Islamic Bank (AIB) ,Al-Khalel ,3
+172,Customer1  ,1212
+112,Customer1  ,1121
+# Al-Rafah MicroFinance Bank (AMB) , Ramallah , 8
+152,Customer1 ,1872
+121,Customer1 ,1212
+382,Customer1 ,12611
+# Palestine Investment Bank (PIBC) , Ramallah , 1
+934,Customer1 ,1212
+726,Customer1 ,1271
+# Palestine Commercial Bank (PCB) , Ramallah , 9
+462,Customer1 ,2323
+125,Customer1 ,182
+# Palestine Islamic Bank (ISBK) , Ramallah , 1
+372,Customer1 ,121
+# Cairo Amman Bank (CAB) , Ramallah  , 12
+822,Customer1  ,172
+# HSBC (HSBC) , Ramallah , 1
+# Bank Of Palestine (BOP), Ramallah , 1
+12,Customer1  ,12861
+184,Customer1 ,163261
+2873,Customer1 ,54353
+273,Customer1 ,2861
+# Bank Of Jordan (BOJ), Al-berah ,12
+162,Customer1 ,17216
